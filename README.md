@@ -1,6 +1,6 @@
 # AWS Cost Visibility Dashboard
 
-**Difficulty:** Beginner &nbsp;|&nbsp; **Estimated Time:** 3–4 hours &nbsp;|&nbsp; **Cloud:** AWS &nbsp;|&nbsp; **IaC:** Terraform
+**Cloud:** AWS &nbsp;|&nbsp; **IaC:** Terraform
 
 > Build a real-time cost tracking and alerting system that gives business owners full visibility into their AWS spend — with automatic email alerts before bills become a problem.
 
